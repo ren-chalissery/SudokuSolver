@@ -19,7 +19,7 @@ import java.util.Scanner;
  */
 public class StdSudokuGrid extends SudokuGrid {
 
-	public int size = 0;
+//	public int size = 0;
 	public int[][] grid;
 	public int[] symbols;
 

@@ -13,6 +13,7 @@
  */
 public abstract class SudokuGrid
 {
+	public int size;
 
     /**
      * Load the specified file and construct an initial grid from the contents
